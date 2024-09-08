@@ -1,0 +1,14 @@
+creart
+Flask
+openai
+Pillow
+requests
+tiktoken==0.3.0
+edge_tts
+asyncio
+pyperclip
+EdgeGPT
+replicate
+pynvml
+psutil
+wmi
